@@ -7,8 +7,8 @@ tarifa proporcionada
 
 # Entradas
 
-horas = int(input("Horas trabajadas: "))
-tarifa = int(input("Tarifa por hora: "))
+horas = float(input("Horas trabajadas: "))
+tarifa = float(input("Tarifa por hora: "))
 
 # Proceso
 
